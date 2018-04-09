@@ -1,2 +1,2 @@
 # Lox
-A small language
+A tiny language from http://www.craftinginterpreters.com.
